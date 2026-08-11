@@ -1,6 +1,17 @@
-# Material de estudio de Data Science e IA - Semillero Aperture
+<div align="center">
 
-Una colección de material auxiliar para aprender sobre las temáticas del semillero. El aprendizaje autonomo es fundamental para los tiempos actuales, entonces se invita a revisar los recursos.
+# Material de Estudio · Data Science e IA
+
+### Semillero Aperture
+
+*Recursos, apuntes y proyectos para aprender ciencia de datos e inteligencia artificial.*
+
+</div>
+
+---
+
+Este repositorio es un recopilación de  material auxiliar para aprender sobre las temáticas del semillero. El aprendizaje autonomo es fundamental para los tiempos actuales, entonces se invita a revisar los recursos.
+
 
 ---
 
