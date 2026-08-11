@@ -4,8 +4,6 @@
 
 ### Semillero Aperture
 
-*Recursos, apuntes y proyectos para aprender ciencia de datos e inteligencia artificial.*
-
 </div>
 
 ---
