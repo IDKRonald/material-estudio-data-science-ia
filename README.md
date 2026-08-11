@@ -89,4 +89,4 @@ Las etiquetas pueden ser: `Libro` · `Curso` · `Video` · `Repo` · `Paper` · 
 Luego abre un **Pull Request**.
 
 <div align="right"><a href="#material-de-estudio-de-data-science-e-ia---semillero-aperture">↑ Volver arriba</a></div>
-"# material-estudio-data-science-ia" 
+
