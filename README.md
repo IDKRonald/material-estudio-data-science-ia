@@ -1,6 +1,6 @@
 <div align="center">
 
-# Material de Estudio · Data Science e IA
+# Material de Estudio sobre Ciencia de Datos e IA
 
 ### Semillero Aperture
 
