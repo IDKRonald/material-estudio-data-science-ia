@@ -27,7 +27,7 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 
 ## Python
 
-- [Curso de PYTHON desde CERO (Completo)](https://wesmckinney.com/book/) `Video`  
+- [Curso de PYTHON desde CERO (Completo)](https://www.youtube.com/watch?v=nKPbfIU442g&t=1s) `Video`  
   Curso del canal **Soy Dalto** sobre los fundamentos del lenguaje de python, sirve cómo introducción a la programación, no pide conocimientos previos y es una excelente forma de iniciar a aprender temas sobre programación.
 
 <div align="right"><a href="#material-de-estudio-de-data-science-e-ia---semillero-aperture">↑ Volver arriba</a></div>
@@ -37,7 +37,7 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 ## Matemáticas y estadística
 
 - [Mathematics for Machine Learning and Data Science](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/) `Curso`  
-  Cubre las matemáticas fundamentales para IA: **álgebra lineal, cálculo, probabilidad y optimización**. Buen punto de partida antes de entrar a los modelos.
+  Curso que cubre las matemáticas fundamentales para el ciencia de datos e IA, tales cómo **álgebra lineal, probabilidad y estadística**. Curso gratis en grabaciones, pero cobra certificado y material extra como códigos.
 
 <div align="right"><a href="#material-de-estudio-de-data-science-e-ia---semillero-aperture">↑ Volver arriba</a></div>
 
