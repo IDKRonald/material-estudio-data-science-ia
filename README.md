@@ -37,7 +37,7 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 ## Matemáticas y estadística
 
 - [Mathematics for Machine Learning and Data Science](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/) `Curso`  
-  Curso que cubre las matemáticas fundamentales para el ciencia de datos e IA, tales cómo **álgebra lineal, probabilidad y estadística**. Curso gratis en grabaciones, pero cobra certificado y material extra como códigos.
+  Curso que cubre las matemáticas fundamentales para el ciencia de datos e IA, tales cómo **álgebra lineal, cálculo, probabilidad y estadística**. Curso gratis en grabaciones, pero cobra certificado y material extra como códigos.
 
 <div align="right"><a href="#material-de-estudio-de-data-science-e-ia---semillero-aperture">↑ Volver arriba</a></div>
 
