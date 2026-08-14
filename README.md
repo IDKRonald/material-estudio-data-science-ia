@@ -15,6 +15,7 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 
 ## Tabla de contenidos
 
+- [Git & GitHub](#git-y-github)
 - [Python](#python)
 - [Matemáticas y estadística](#matemáticas-y-estadística)
 - [Machine Learning](#machine-learning)
@@ -24,12 +25,20 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 - [Cómo contribuir](#cómo-contribuir)
 
 ---
+## Git y GitHub
 
+- [Git & GitHub Crash Course for Beginners](https://youtu.be/mAFoROnOfHs) `Video` - `Inglés`
+
+  Curso introductorio para aprender Git y GitHub desde cero, incluyendo los conceptos básicos de control de versiones y colaboración en proyectos.
 ## Python
 
 - [Curso de PYTHON desde CERO (Completo)](https://www.youtube.com/watch?v=nKPbfIU442g&t=1s) `Video` - `Español`
   
   Curso del canal **Soy Dalto** sobre los fundamentos del lenguaje de python, sirve cómo introducción a la programación, no pide conocimientos previos y es una excelente forma de iniciar a aprender temas sobre programación.
+
+- [Python NumPy Tutorial for Beginners](https://youtu.be/QUT1VHiLmmI) `Video` - `Inglés`
+
+  Tutorial introductorio a NumPy, una de las principales librerías de Python para computación numérica y análisis de datos.
 
 <div align="right"><a href="#material-de-estudio-de-data-science-e-ia---semillero-aperture">↑ Volver arriba</a></div>
 
@@ -50,6 +59,10 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 - [An Introduction to Statistical Learning](https://www.statlearning.com) `Libro` - `Inglés`
   
   Aborda el Machine Learning desde una **perspectiva estadística**, con versiones en R y en Python. Gratis en su sitio oficial.
+  
+- [Kaggle Data Science Competition Course – Solve Three Challenges Step-by-Step](https://youtu.be/BV03sQ0srcU) `Video` - `Inglés`
+
+  Curso práctico que muestra cómo abordar competencias de Kaggle paso a paso, desde el análisis de los datos hasta la construcción y evaluación de modelos.
 
 <div align="right"><a href="#material-de-estudio-de-data-science-e-ia---semillero-aperture">↑ Volver arriba</a></div>
 
