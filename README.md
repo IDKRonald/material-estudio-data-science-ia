@@ -15,7 +15,7 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 
 ## Tabla de contenidos
 
-- [Git & GitHub](#git-y-github)
+- [Git y GitHub](#git-y-github)
 - [Python](#python)
 - [Matemáticas y estadística](#matemáticas-y-estadística)
 - [Machine Learning](#machine-learning)
