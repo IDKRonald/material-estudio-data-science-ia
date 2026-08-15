@@ -22,8 +22,8 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 - [Deep Learning](#deep-learning)
 - [LLMs](#llms)
 - [Datos](#datos)
-- [Cómo contribuir](#cómo-contribuir)
 - [Competencias](#competencias)
+- [Cómo contribuir](#cómo-contribuir)
 
 ---
 ## Git y GitHub
@@ -32,7 +32,7 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 
   Curso introductorio para aprender Git y GitHub desde cero, incluyendo los conceptos básicos de control de versiones y colaboración en proyectos.
 
-<div align="right"><a href="#material-de-estudio-de-data-science-e-ia---semillero-aperture">↑ Volver arriba</a></div>
+<div align="right"><a href="#material-de-estudio-sobre-ciencia-de-datos-e-ia">↑ Volver arriba</a></div>
 
 ---
 
@@ -108,7 +108,7 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 
 ---
 
-## Competencias 
+## Competencias
 
 - [DataCamp Competitions](https://app.datacamp.com/learn/competitions/?filter=all) `Sitio`  - `Español`
 - [DrivenData Competitions](https://www.drivendata.org/competitions/) `Sitio`  - `Inglés`
