@@ -22,6 +22,7 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 - [Deep Learning](#deep-learning)
 - [LLMs](#llms)
 - [Datos](#datos)
+- [Competencias](#competencias)
 - [Cómo contribuir](#cómo-contribuir)
 
 ---
@@ -30,6 +31,11 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 - [Git & GitHub Crash Course for Beginners](https://youtu.be/mAFoROnOfHs) `Video` - `Inglés`
 
   Curso introductorio para aprender Git y GitHub desde cero, incluyendo los conceptos básicos de control de versiones y colaboración en proyectos.
+
+<div align="right"><a href="#material-de-estudio-sobre-ciencia-de-datos-e-ia">↑ Volver arriba</a></div>
+
+---
+
 ## Python
 
 - [Curso de PYTHON desde CERO (Completo)](https://www.youtube.com/watch?v=nKPbfIU442g&t=1s) `Video` - `Español`
@@ -98,6 +104,19 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
   
   La colección de datasets de la comunidad de ciencia de datos. Cada conjunto suele venir acompañado de **notebooks públicos** creados por la comunidad, siendo útiles para aprender de la gente más experimentada.
 
+<div align="right"><a href="#material-de-estudio-de-data-science-e-ia---semillero-aperture">↑ Volver arriba</a></div>
+
+---
+
+## Competencias
+
+- [DataCamp Competitions](https://app.datacamp.com/learn/competitions/?filter=all) `Sitio`  - `Español`
+- [DrivenData Competitions](https://www.drivendata.org/competitions/) `Sitio`  - `Inglés`
+- [Zindi Competitions](https://zindi.world/competitions) `Sitio`  - `Inglés`
+- [Kaggle Competitions](https://www.kaggle.com/competitions) `Sitio`  - `Inglés`
+
+  En estos sitios podrás poner a prueba todo lo que has aprendido participando en competencias, no importa tu nivel seguro encontraras alguna que se adapte a ti.
+  
 <div align="right"><a href="#material-de-estudio-de-data-science-e-ia---semillero-aperture">↑ Volver arriba</a></div>
 
 ---
