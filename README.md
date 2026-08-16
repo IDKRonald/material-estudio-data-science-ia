@@ -115,7 +115,7 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 - [Zindi Competitions](https://zindi.world/competitions) `Sitio`  - `Inglés`
 - [Kaggle Competitions](https://www.kaggle.com/competitions) `Sitio`  - `Inglés`
 
-  En estos sitios podrás poner a prueba todo lo que has aprendido participando en competencias, no importa tu nivel seguro encontraras alguna que se adapte a ti.
+En estos sitios podrás compartir para ganar premios mediante el uso de data science e IA, es buena opción hacerlo si quieres retos desafiantes.
   
 <div align="right"><a href="#material-de-estudio-de-data-science-e-ia---semillero-aperture">↑ Volver arriba</a></div>
 
@@ -123,7 +123,7 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 
 ## Cómo contribuir
 
-Este repositorio intenta recopilar buen material para aprender Data Science e IA, pero seguramente hay muchas fuentes excelentes que todavía no están acá. Cualquier contribución es bienvenida: agregar recursos, mejorar descripciones o corregir enlaces.
+Este repositorio intenta recopilar buen material para aprender Data Science e IA, pero seguramente hay muchas fuentes que todavía no están acá. Cualquier contribución es bienvenida: agregar recursos, mejorar descripciones o corregir enlaces.
 
 Para añadir un recurso, copia esta plantilla en la sección que corresponda:
 
