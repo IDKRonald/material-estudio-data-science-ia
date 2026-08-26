@@ -466,6 +466,9 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
   
   Este libro te enseñará cómo realizar una **red neuronal** con python sin librerías, explica de forma clara los fundamentos del deep learning y cómo cada parte funciona. Solo pide como conocimiento previo saber python.
 
+- [Luis Serrano Academy](https://www.youtube.com/@SerranoAcademy) 'Videos' - 'Inglés'
+  Este es un canala de youtube increible donde ves conceptos con unas analogías muy chéveres y claras sobre los conceptos complicados del deep learning y machine learning. Es un canal súper recomendado para todos los niveles y ante un concepto que no entiendas bien, revisa si tiene un vídeo porque te ayudará a captar la intuición.
+
 <div align="right"><a href="#material-de-estudio-sobre-ciencia-de-datos-e-ia">↑ Volver arriba</a></div>
 
 ---
